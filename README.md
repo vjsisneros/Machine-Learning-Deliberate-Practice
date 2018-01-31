@@ -4,6 +4,10 @@
 
 ― Anders Ericsson, Peak: Secrets from the New Science of Expertise
 
+
+The purpose of this project is to improve my Machine Learning skills by implementing algorithms on datasets. This is a record of my progress. 
+
+
 Includes:
 
 - TCSS455 -  Python for Machine Learning Exercises
