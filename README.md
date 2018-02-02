@@ -11,7 +11,7 @@
 **Includes:**
 
 
-| Project        | Data Set      |  Date Completed |
+| Project        | Dataset/s      |  Date Completed |
 | :------------- |:-------------:| -----:|
 |[Hello World of Machine Learning](https://github.com/vjsisneros/Machine-Learning-Deliberate-Practice/tree/master/src/1%20Hello%20World%20of%20Machine%20Learning) | [iris.csv](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/) | 2/1/2018  |
 | TCSS455 -  Python for Machine Learning Exercises      |       |   |
