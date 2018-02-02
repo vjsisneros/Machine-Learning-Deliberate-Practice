@@ -9,7 +9,7 @@ The purpose of this project is to improve my Machine Learning skills by implemen
 
 
 Includes:
-
+1) Hello World of Machine Learning (iris data-set)
 - TCSS455 -  Python for Machine Learning Exercises
 - LinkedIn Learning - Spark for Machine Learning
 
