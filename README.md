@@ -11,11 +11,11 @@ The purpose of this project is to improve my Machine Learning skills by implemen
 Includes:
 
 
-| Project        | Data Set      | Cool  |
-| ------------- |:-------------:| -----:|
-| Hello World of Machine Learning (iris data-set)    | [iris.csv](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/) | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Project        | Data Set      |   |
+| :------------- |:-------------:| -----:|
+| Hello World of Machine Learning | [iris.csv](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/) |  |
+| TCSS455 -  Python for Machine Learning Exercises      | centered      |   |
+| LinkedIn Learning - Spark for Machine Learning | t      |    |
 1) 
 - TCSS455 -  Python for Machine Learning Exercises
 - LinkedIn Learning - Spark for Machine Learning
