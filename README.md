@@ -13,7 +13,7 @@ Includes:
 
 | Project        | Data Set      |   |
 | :------------- |:-------------:| -----:|
-|[ Hello World of Machine Learning](Machine-Learning-Deliberate-Practice/src/1 Hello World of Machine Learning/) | [iris.csv](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/) |  |
+|[Hello World of Machine Learning](Machine-Learning-Deliberate-Practice/src/1 Hello World of Machine Learning) | [iris.csv](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/) |  |
 | TCSS455 -  Python for Machine Learning Exercises      | centered      |   |
 | LinkedIn Learning - Spark for Machine Learning | t      |    |
 1) 
